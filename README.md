@@ -43,9 +43,9 @@ The workflow includes:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Requirements
+### Requirements
 
 - Python 3.x
 - H2O.ai Python module
